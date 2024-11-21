@@ -1,4 +1,4 @@
-package test-sl
+package sl
 
 
 class ex {
