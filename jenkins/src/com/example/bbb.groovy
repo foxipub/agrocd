@@ -1,6 +1,6 @@
 package com.example
 
-class TEST {
+class bbb {
 
    def call() {
          return println("This is how methods work in groovy");
