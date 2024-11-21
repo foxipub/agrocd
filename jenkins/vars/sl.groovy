@@ -1,6 +1,6 @@
 package com.example
 
-class HttpsRequest {
+class FFF {
 
    def call() {
          println("This is how methods work in groovy");
