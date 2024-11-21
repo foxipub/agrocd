@@ -1,3 +1,5 @@
+package aaa
+
 class FFF {
 
    def call() {
