@@ -1,6 +1,6 @@
-package aaa
+package sl
 
-class FFF {
+class sl {
 
    def call() {
          println("This is how methods work in groovy");
