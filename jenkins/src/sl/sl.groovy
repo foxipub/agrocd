@@ -1,6 +1,6 @@
 package sl
 
-class sl {
+class TEST {
 
    def call() {
          println("This is how methods work in groovy");
